@@ -1,2 +1,1 @@
-git is a distributed version version control ststem.
-git 
+git is a distributed  version control ststem.
