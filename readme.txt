@@ -1,1 +1,2 @@
-git is a distributed die version control ststem.
+git is a distributed version control ststem.
+Git is free software distributed under the GPL.
